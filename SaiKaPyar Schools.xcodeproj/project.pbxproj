@@ -7,21 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		071B54DF1F6AE05200B9E13F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071B54DE1F6AE05200B9E13F /* HomeViewController.swift */; };
+		071B54E31F6AEEC600B9E13F /* SlideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071B54E21F6AEEC600B9E13F /* SlideMenu.swift */; };
+		0721496F1F7236CD00F35641 /* mView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0721496E1F7236CC00F35641 /* mView.xib */; };
+		0724471A1F7CB5E400DA10A0 /* customCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072447191F7CB5E400DA10A0 /* customCell.swift */; };
+		072AA9411F73B37B003B1B9E /* TrainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072AA9401F73B37B003B1B9E /* TrainerViewController.swift */; };
+		072BB4821F763CAF001E0959 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 072BB4801F763CAF001E0959 /* Main.storyboard */; };
+		0731D5891F73879700684D55 /* mView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0731D5881F73879700684D55 /* mView.swift */; };
+		0732FE331F74D898002971D3 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076CF13F1F71166B0089D8D0 /* AboutViewController.swift */; };
+		0732FE351F74E033002971D3 /* MotivateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0732FE341F74E033002971D3 /* MotivateViewController.swift */; };
 		0744837E1F698F31007F9DD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0744837D1F698F31007F9DD9 /* AppDelegate.swift */; };
-		074483801F698F31007F9DD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0744837F1F698F31007F9DD9 /* ViewController.swift */; };
-		074483831F698F31007F9DD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 074483811F698F31007F9DD9 /* Main.storyboard */; };
 		074483851F698F31007F9DD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 074483841F698F31007F9DD9 /* Assets.xcassets */; };
 		074483881F698F31007F9DD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 074483861F698F31007F9DD9 /* LaunchScreen.storyboard */; };
+		0757D5061F7A186500BEBC88 /* AbstractViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0757D5051F7A186500BEBC88 /* AbstractViewController.swift */; };
+		0757D50A1F7A22F100BEBC88 /* TopMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0757D5091F7A22F100BEBC88 /* TopMenuView.swift */; };
+		076537BD1F860DAE00FC8135 /* TextFieldsSupporting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076537BC1F860DAE00FC8135 /* TextFieldsSupporting.swift */; };
+		0778144C1F7BA4B3004A7725 /* TopMenuView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0778144B1F7BA4B3004A7725 /* TopMenuView.xib */; };
+		07ABDEC81F8390D500AA1316 /* GetInvolveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07ABDEC71F8390D500AA1316 /* GetInvolveViewController.swift */; };
+		07ABDECA1F83AEF200AA1316 /* CustomTableCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07ABDEC91F83AEF200AA1316 /* CustomTableCells.swift */; };
+		2B29478D07F6E5900855F09C /* Pods_SaiKaPyar_Schools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD7F0AF82D7E220D9E69515B /* Pods_SaiKaPyar_Schools.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		071B54DE1F6AE05200B9E13F /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		071B54E21F6AEEC600B9E13F /* SlideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideMenu.swift; sourceTree = "<group>"; };
+		0721496E1F7236CC00F35641 /* mView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = mView.xib; sourceTree = "<group>"; };
+		072447191F7CB5E400DA10A0 /* customCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customCell.swift; sourceTree = "<group>"; };
+		072AA9401F73B37B003B1B9E /* TrainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrainerViewController.swift; sourceTree = "<group>"; };
+		072BB4811F763CAF001E0959 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0731D5881F73879700684D55 /* mView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mView.swift; sourceTree = "<group>"; };
+		0732FE341F74E033002971D3 /* MotivateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotivateViewController.swift; sourceTree = "<group>"; };
 		0744837A1F698F31007F9DD9 /* SaiKaPyar Schools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SaiKaPyar Schools.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0744837D1F698F31007F9DD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0744837F1F698F31007F9DD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		074483821F698F31007F9DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		074483841F698F31007F9DD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		074483871F698F31007F9DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		074483891F698F31007F9DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0757D5051F7A186500BEBC88 /* AbstractViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbstractViewController.swift; sourceTree = "<group>"; };
+		0757D5091F7A22F100BEBC88 /* TopMenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMenuView.swift; sourceTree = "<group>"; };
+		076537BC1F860DAE00FC8135 /* TextFieldsSupporting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldsSupporting.swift; sourceTree = "<group>"; };
+		076CF13F1F71166B0089D8D0 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		0778144B1F7BA4B3004A7725 /* TopMenuView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TopMenuView.xib; sourceTree = "<group>"; };
+		07ABDEC71F8390D500AA1316 /* GetInvolveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetInvolveViewController.swift; sourceTree = "<group>"; };
+		07ABDEC91F83AEF200AA1316 /* CustomTableCells.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableCells.swift; sourceTree = "<group>"; };
+		95C94E1B969A6242E295F78A /* Pods-SaiKaPyar Schools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaiKaPyar Schools.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SaiKaPyar Schools/Pods-SaiKaPyar Schools.debug.xcconfig"; sourceTree = "<group>"; };
+		AD7F0AF82D7E220D9E69515B /* Pods_SaiKaPyar_Schools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SaiKaPyar_Schools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD792F38FB5AE91161C694FE /* Pods-SaiKaPyar Schools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaiKaPyar Schools.release.xcconfig"; path = "Pods/Target Support Files/Pods-SaiKaPyar Schools/Pods-SaiKaPyar Schools.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B29478D07F6E5900855F09C /* Pods_SaiKaPyar_Schools.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +71,8 @@
 			children = (
 				0744837C1F698F31007F9DD9 /* SaiKaPyar Schools */,
 				0744837B1F698F31007F9DD9 /* Products */,
+				F93803D5F7957B99C4CC397F /* Pods */,
+				7ECD6BE2835E6C58D33365F6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +87,76 @@
 		0744837C1F698F31007F9DD9 /* SaiKaPyar Schools */ = {
 			isa = PBXGroup;
 			children = (
-				0744837D1F698F31007F9DD9 /* AppDelegate.swift */,
-				0744837F1F698F31007F9DD9 /* ViewController.swift */,
-				074483811F698F31007F9DD9 /* Main.storyboard */,
-				074483841F698F31007F9DD9 /* Assets.xcassets */,
-				074483861F698F31007F9DD9 /* LaunchScreen.storyboard */,
-				074483891F698F31007F9DD9 /* Info.plist */,
+				076CF1451F7126AF0089D8D0 /* Supported Files */,
+				076CF1441F7126930089D8D0 /* View */,
+				076CF1431F7126810089D8D0 /* Model */,
+				076CF1411F7126520089D8D0 /* Controllers */,
 			);
 			path = "SaiKaPyar Schools";
+			sourceTree = "<group>";
+		};
+		076CF1411F7126520089D8D0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0744837D1F698F31007F9DD9 /* AppDelegate.swift */,
+				076CF13F1F71166B0089D8D0 /* AboutViewController.swift */,
+				071B54DE1F6AE05200B9E13F /* HomeViewController.swift */,
+				072447191F7CB5E400DA10A0 /* customCell.swift */,
+				07ABDEC91F83AEF200AA1316 /* CustomTableCells.swift */,
+				072AA9401F73B37B003B1B9E /* TrainerViewController.swift */,
+				0732FE341F74E033002971D3 /* MotivateViewController.swift */,
+				07ABDEC71F8390D500AA1316 /* GetInvolveViewController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		076CF1431F7126810089D8D0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		076CF1441F7126930089D8D0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				072BB4801F763CAF001E0959 /* Main.storyboard */,
+				074483841F698F31007F9DD9 /* Assets.xcassets */,
+				074483861F698F31007F9DD9 /* LaunchScreen.storyboard */,
+				0721496E1F7236CC00F35641 /* mView.xib */,
+				0778144B1F7BA4B3004A7725 /* TopMenuView.xib */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		076CF1451F7126AF0089D8D0 /* Supported Files */ = {
+			isa = PBXGroup;
+			children = (
+				074483891F698F31007F9DD9 /* Info.plist */,
+				071B54E21F6AEEC600B9E13F /* SlideMenu.swift */,
+				0731D5881F73879700684D55 /* mView.swift */,
+				0757D5091F7A22F100BEBC88 /* TopMenuView.swift */,
+				0757D5051F7A186500BEBC88 /* AbstractViewController.swift */,
+				076537BC1F860DAE00FC8135 /* TextFieldsSupporting.swift */,
+			);
+			name = "Supported Files";
+			sourceTree = "<group>";
+		};
+		7ECD6BE2835E6C58D33365F6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AD7F0AF82D7E220D9E69515B /* Pods_SaiKaPyar_Schools.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F93803D5F7957B99C4CC397F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				95C94E1B969A6242E295F78A /* Pods-SaiKaPyar Schools.debug.xcconfig */,
+				CD792F38FB5AE91161C694FE /* Pods-SaiKaPyar Schools.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0744838C1F698F31007F9DD9 /* Build configuration list for PBXNativeTarget "SaiKaPyar Schools" */;
 			buildPhases = (
+				CE8D953A20FE6F8BFFB734D6 /* [CP] Check Pods Manifest.lock */,
 				074483761F698F31007F9DD9 /* Sources */,
 				074483771F698F31007F9DD9 /* Frameworks */,
 				074483781F698F31007F9DD9 /* Resources */,
+				D8281D6C6E518800A7019554 /* [CP] Embed Pods Frameworks */,
+				C83486F0AA40AC9A4C9CB5AD /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,6 +194,7 @@
 				TargetAttributes = {
 					074483791F698F31007F9DD9 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = YJ8NAZPVKZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,31 +222,98 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0721496F1F7236CD00F35641 /* mView.xib in Resources */,
 				074483881F698F31007F9DD9 /* LaunchScreen.storyboard in Resources */,
 				074483851F698F31007F9DD9 /* Assets.xcassets in Resources */,
-				074483831F698F31007F9DD9 /* Main.storyboard in Resources */,
+				072BB4821F763CAF001E0959 /* Main.storyboard in Resources */,
+				0778144C1F7BA4B3004A7725 /* TopMenuView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C83486F0AA40AC9A4C9CB5AD /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SaiKaPyar Schools/Pods-SaiKaPyar Schools-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CE8D953A20FE6F8BFFB734D6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SaiKaPyar Schools-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D8281D6C6E518800A7019554 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-SaiKaPyar Schools/Pods-SaiKaPyar Schools-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SaiKaPyar Schools/Pods-SaiKaPyar Schools-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		074483761F698F31007F9DD9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				074483801F698F31007F9DD9 /* ViewController.swift in Sources */,
+				0724471A1F7CB5E400DA10A0 /* customCell.swift in Sources */,
+				076537BD1F860DAE00FC8135 /* TextFieldsSupporting.swift in Sources */,
+				071B54E31F6AEEC600B9E13F /* SlideMenu.swift in Sources */,
+				07ABDECA1F83AEF200AA1316 /* CustomTableCells.swift in Sources */,
 				0744837E1F698F31007F9DD9 /* AppDelegate.swift in Sources */,
+				0731D5891F73879700684D55 /* mView.swift in Sources */,
+				0757D50A1F7A22F100BEBC88 /* TopMenuView.swift in Sources */,
+				0732FE351F74E033002971D3 /* MotivateViewController.swift in Sources */,
+				072AA9411F73B37B003B1B9E /* TrainerViewController.swift in Sources */,
+				0757D5061F7A186500BEBC88 /* AbstractViewController.swift in Sources */,
+				0732FE331F74D898002971D3 /* AboutViewController.swift in Sources */,
+				071B54DF1F6AE05200B9E13F /* HomeViewController.swift in Sources */,
+				07ABDEC81F8390D500AA1316 /* GetInvolveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		074483811F698F31007F9DD9 /* Main.storyboard */ = {
+		072BB4801F763CAF001E0959 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				074483821F698F31007F9DD9 /* Base */,
+				072BB4811F763CAF001E0959 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -258,8 +424,10 @@
 		};
 		0744838D1F698F31007F9DD9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95C94E1B969A6242E295F78A /* Pods-SaiKaPyar Schools.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YJ8NAZPVKZ;
 				INFOPLIST_FILE = "SaiKaPyar Schools/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SaiKaPyar-Schools";
@@ -270,8 +438,10 @@
 		};
 		0744838E1F698F31007F9DD9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CD792F38FB5AE91161C694FE /* Pods-SaiKaPyar Schools.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YJ8NAZPVKZ;
 				INFOPLIST_FILE = "SaiKaPyar Schools/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SaiKaPyar-Schools";
@@ -299,6 +469,7 @@
 				0744838E1F698F31007F9DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
